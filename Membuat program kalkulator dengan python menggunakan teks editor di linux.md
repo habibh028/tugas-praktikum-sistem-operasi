@@ -11,7 +11,7 @@
       
       ![kode](https://github.com/habibh028/tugas-praktikum-sistem-operasi/assets/126387192/6f5ea58d-e85f-4061-86c4-a53aaec80275)
 
-   3. install python3-tk untuk membuat antarmuka pengguna grafis (GUI).
+   3. install python3-tk untuk mendapatkan akses ke pustaka Tkinter yang diperlukan untuk membuat aplikasi GUI menggunakan Python.
 
           sudo apt install python3-tk
       
